@@ -1,0 +1,4 @@
+Always split data into train/val/test to avoid leakage. #MLTips
+Normalize features for distance-based models like KNN/K-Means. #AIML
+ಕನ್ನಡ: ಪ್ರತಿದಿನ ಸ್ವಲ್ಪ ಕಲಿತರೆ ಸಾಕು—ದೊಡ್ಡ ಫಲ ಬರುತ್ತದೆ. #Study
+This is a test post.
